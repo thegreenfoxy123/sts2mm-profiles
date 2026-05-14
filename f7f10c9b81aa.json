@@ -1,0 +1,359 @@
+{
+  "name": "hehe",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Act 4: Final Ascent",
+      "version": "0.1.2e",
+      "source": "github:kphxgames/Act4FinalAscent",
+      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
+      "files": [
+        "Act4\\Act4FinalAscent.dll",
+        "Act4\\Act4FinalAscent.json",
+        "Act4\\Act4FinalAscent.pck"
+      ],
+      "folder_name": "Act4",
+      "mod_id": "Act4FinalAscent",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/Act_4__Final_Ascent_0.1.2e.zip"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.0",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "54ab82b7a141e9afb03438cbbfb6ec079c182dbddcba760a9c0ea4e7a32d5de0",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/BaseLib_3.1.0.zip"
+    },
+    {
+      "name": "Better Mod Menu",
+      "version": "0.0.5",
+      "source": "github:Hellfrosted/BetterModMenu",
+      "hash": "a94c35920157eb4e446e757e5d78b501b19216793b0e011da4654c718705f3c6",
+      "files": [
+        "BetterModMenu\\BetterModMenu.dll",
+        "BetterModMenu\\BetterModMenu.json"
+      ],
+      "folder_name": "BetterModMenu",
+      "mod_id": "BetterModMenu",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/Better_Mod_Menu_0.0.5.zip"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.2",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "6457cc7006919376b4f435777b339ff9a7286f91dafc0a696c6215365d14caa9",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/BetterSpire2_1.82.2.zip"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/Booba_Necrobinder_Mod_1.0.7.zip"
+    },
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "df9e91f0a2bdfa9040fcac29b4b658343cca2eece22fc5fb30d68033d77b25c4",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/DefectSkin_AD_0.1.0.zip"
+    },
+    {
+      "name": "Manosaba",
+      "version": "v1.4.5",
+      "source": "github:oplivilqo/manosaba_text_box",
+      "hash": "fe4c1e33e65233d5d0e17ad97b2069b9f02136fec2b3f1fa4e42c73575eef70b",
+      "files": [
+        "Manosaba\\Manosaba.dll",
+        "Manosaba\\Manosaba.json",
+        "Manosaba\\Manosaba.pck"
+      ],
+      "folder_name": "Manosaba",
+      "mod_id": "Manosaba",
+      "enabled": true
+    },
+    {
+      "name": "MeiLinMod",
+      "version": "v0.2.5",
+      "source": "github:happyone13/MeiLinMod-sts2",
+      "hash": "aab559454d73602f5a1a102f37ec3171a2699ababfc4534f2b7b6493235b8f76",
+      "files": [
+        "MeiLin\\MeiLinMod.dll",
+        "MeiLin\\MeiLinMod.json",
+        "MeiLin\\MeiLinMod.pck"
+      ],
+      "folder_name": "MeiLin",
+      "mod_id": "MeiLinMod",
+      "enabled": true
+    },
+    {
+      "name": "Merchant2CuteII",
+      "version": "v1.4.0",
+      "source": null,
+      "hash": "bc033a114fc87261440889e5b71140cfb33a62026eabcc4f8298e31edb5ca8ca",
+      "files": [
+        "Merchant2CuteII\\Merchant2CuteII.dll",
+        "Merchant2CuteII\\Merchant2CuteII.json",
+        "Merchant2CuteII\\Merchant2CuteII.pck"
+      ],
+      "folder_name": "Merchant2CuteII",
+      "mod_id": "Merchant2CuteII",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/Merchant2CuteII_1.4.0.zip"
+    },
+    {
+      "name": "Portalcraft",
+      "version": "v0.2.7",
+      "source": "github:Siegric/sts2_char_portalcraft",
+      "hash": "66168269d2535a39e9854e6571ed2eb29a1e83c37f7fa861744cdd4915a2fc4a",
+      "files": [
+        "PortalCraft\\sts2_char_portalcraft.dll",
+        "PortalCraft\\sts2_char_portalcraft.json",
+        "PortalCraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "PortalCraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": true
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/Princess_0.0.1.zip"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.5.1",
+      "source": "github:DoublePigeon/RegentCardsAnimeRework",
+      "hash": "1882f601ec0ee6231e3ca578c51b206ea1b8f609be559f5d199c4986d4cfe2be",
+      "files": [
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/RegentCardsAnimeRework_0.5.1.zip"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.0.69",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "2fbedd37a6ee2b41ec473880b42420d4aa502a2baa5fa6a964ed5691c30af239",
+      "files": [
+        "ElainaMod\\mod_manifest.json",
+        "ElainaMod\\STS2-RitsuLib.dll",
+        "ElainaMod\\Sts2ElainaMod\\audios\\Elaina.bank",
+        "ElainaMod\\Sts2ElainaMod\\audios\\GUIDs.txt",
+        "ElainaMod\\Sts2ElainaMod\\Sts2ElainaMod.dll",
+        "ElainaMod\\Sts2ElainaMod\\Sts2ElainaMod.json",
+        "ElainaMod\\Sts2ElainaMod\\Sts2ElainaMod.pck"
+      ],
+      "folder_name": "ElainaMod",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.2.2",
+      "source": "github:urkr14/ryoshu1",
+      "hash": "d58166038348f3ece30e2bb2fdb3b98e23be5e489d096b9a77908cc2012c47c8",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "silentSkin\\silentSkin\\mod_manifest.json",
+        "silentSkin\\silentSkin\\silentSkin.pck"
+      ],
+      "folder_name": "silentSkin",
+      "mod_id": "silentSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/silentSkin_0.0.1.zip"
+    },
+    {
+      "name": "STS 2 Unlimited",
+      "version": "v0.5.5",
+      "source": "github:Icesaintgutter/slay-the-spire-2",
+      "hash": "10443a1d44523ebf04f53d0602ac3d34c88767086a1b0845608461559fd21252",
+      "files": [
+        "Sts2Unlimited\\0Harmony.dll",
+        "Sts2Unlimited\\icon.svg",
+        "Sts2Unlimited\\README.md",
+        "Sts2Unlimited\\Sts2Unlimited.dll",
+        "Sts2Unlimited\\Sts2Unlimited.json",
+        "Sts2Unlimited\\sts2unlimited.maxplayers.txt",
+        "Sts2Unlimited\\Sts2Unlimited.pck"
+      ],
+      "folder_name": "Sts2Unlimited",
+      "mod_id": "Sts2Unlimited",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/STS_2_Unlimited_0.5.5.zip"
+    },
+    {
+      "name": "STS2Saves",
+      "version": "1.0.2.1",
+      "source": "github:nyaoouo/sts-2-saves",
+      "hash": "38349212ab795ab2a1592e1272e2800493869eb40081f98e27d4d56d9ceed741",
+      "files": [
+        "STS2Saves\\STS2Saves.dll",
+        "STS2Saves\\STS2Saves.json",
+        "STS2Saves\\STS2Saves.v0.103.2.dll",
+        "STS2Saves\\STS2Saves.v0.103.2.dll.manifest",
+        "STS2Saves\\STS2Saves.v0.105.0.dll",
+        "STS2Saves\\STS2Saves.v0.105.0.dll.manifest"
+      ],
+      "folder_name": "STS2Saves",
+      "mod_id": "STS2Saves",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/STS2Saves_1.0.2.1.zip"
+    },
+    {
+      "name": "VoiceMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "9e564fb4abe4435eb983ebd0f9acd9f74ee364d4af54fce2e1f7b29a898f8350",
+      "files": [
+        "regentvoicemod\\mod_manifest.json",
+        "regentvoicemod\\VoiceMod.dll",
+        "regentvoicemod\\VoiceMod.pck"
+      ],
+      "folder_name": "regentvoicemod",
+      "mod_id": "voicemod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/VoiceMod_1.0.0.zip"
+    },
+    {
+      "name": "机娘“阿塔”",
+      "version": "0.1.3",
+      "source": null,
+      "hash": "d0e58dc0014a4872cb810b38cd803db7fda7c4bdc5a13c25e5d5b56385ea5fb0",
+      "files": [
+        "ATAIronClad\\ATA_IronClad.dll",
+        "ATAIronClad\\ATA_IronClad.pck",
+        "ATAIronClad\\mod_manifest.json"
+      ],
+      "folder_name": "ATAIronClad",
+      "mod_id": "ATA_IronClad",
+      "enabled": true
+    },
+    {
+      "name": "皮皮统计: Skada",
+      "version": "1.14.4",
+      "source": "github:bkader/Skada-Damage-Meter",
+      "hash": "53967b68ed6f5cf1cbe3f7ad21f3ae1127eb4eb23386a2b51feb490487f8fadd",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/皮皮统计__Skada_1.14.4.zip"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+    },
+    {
+      "name": "荒疫",
+      "version": "0.3.8",
+      "source": "github:Blightmud/Blightmud",
+      "hash": "9570f40dd3d1dd28aa189f4f0347de730cae40d6e9ad371accb32bc9f7197fa5",
+      "files": [
+        "blight\\blight.dll",
+        "blight\\blight.json",
+        "blight\\localization\\eng\\all.loc",
+        "blight\\localization\\rus\\all.loc",
+        "blight\\localization\\zhs\\all.loc"
+      ],
+      "folder_name": "blight",
+      "mod_id": "blight",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/thegreenfoxy123/sts2mm-profiles/main/mods/荒疫_0.3.8.zip"
+    }
+  ],
+  "created_at": "2026-05-14T08:25:42.277186900Z",
+  "updated_at": "2026-05-14T09:19:20.125254Z",
+  "public": false
+}
