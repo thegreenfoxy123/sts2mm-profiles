@@ -1,7 +1,7 @@
 {
   "name": "hehe",
   "game_version": null,
-  "created_by": "sts2-mod-manager",
+  "created_by": "thegreenfoxy123",
   "mods": [
     {
       "name": "Act 4: Final Ascent",
@@ -354,6 +354,6 @@
     }
   ],
   "created_at": "2026-05-14T08:25:42.277186900Z",
-  "updated_at": "2026-05-14T09:19:20.125254Z",
+  "updated_at": "2026-05-14T09:41:02.146173200Z",
   "public": false
 }
